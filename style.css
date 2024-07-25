@@ -17,7 +17,7 @@
 
 }
 .logo{
-    background-image: url("amzon_logo-removebg-preview.png");
+    background-image: url("Images/amzon_logo-removebg-preview.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -198,7 +198,7 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image: url("amzon_logo-removebg-preview.png");
+    background-image: url("Images/amzlogo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
