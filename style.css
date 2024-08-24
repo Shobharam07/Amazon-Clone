@@ -3,6 +3,9 @@
     font-family: arial;
     border: border-box;
 }
+.buttons{
+    cursor: pointer;
+}
 .navbar{
     height: 60px;
     background-color: #0f1111;
